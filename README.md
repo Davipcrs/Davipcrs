@@ -9,3 +9,7 @@
 - 📫 How to reach me: Instagram: @davi_pernalonga30
 - ⚡ Fun fact: I'm starting to compose songs in the Brazilian samba rhythm
 
+
+### Programing languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
