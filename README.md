@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a Java project for an RPG game
-- 🌱 I’m currently learning Android Studio and C#
+- 🔭 I’m currently working on a Android Studio Java project
+- 🌱 I’m currently learning Android SDK
 - 👯 I’m looking to collaborate on Acessibility
 - 🤔 I’m looking for help with Layouts in Android Studio
 - ⚡ Fun fact: I'm starting to compose songs in the Brazilian samba rhythm
