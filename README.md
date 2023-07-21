@@ -11,7 +11,7 @@
 
 ### Programing languages
 
-<img src="https://www.pngfind.com/pngs/m/144-1441576_dart-logo-png-transparent-dart-lang-png-download.png" width="40" height="40"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://vetores.org/wp-content/uploads/google-flutter.png" width="40" height="40"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ### Social Medias
 <div>
