@@ -1,7 +1,7 @@
 ### Hi, welcome to my profile!
 
 I'am a brazillian developer with a great interest in DevOps and mobile development.
-Now my focus is in SysAdmin Basics and Flutter development.
+Currently studying the flutter SDK and basic operating system administration.
 
 ### Programing languages
 
