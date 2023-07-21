@@ -11,7 +11,7 @@
 
 ### Programing languages
 
-<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" width="40" height="40"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-kopq1sul.png" width="40" height="40"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ### Social Medias
 <div>
