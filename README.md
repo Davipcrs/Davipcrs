@@ -1,4 +1,4 @@
-#### Hi, welcome to my profile!
+# Hi, welcome to my profile!
 
 I'am a brazillian developer with a great interest in DevOps and mobile development.
 Currently studying the flutter SDK and basic operating system administration.
@@ -13,14 +13,14 @@ Currently studying the flutter SDK and basic operating system administration.
 <a href="https://www.youtube.com/UCtPPga5eT5hARdNkUu4aR_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-## Projects Indexes:
+# Projects Indexes:
 
-### Python and [PySide6](https://www.qt.io/qt-for-python) Projects:
+## Python and [PySide6](https://www.qt.io/qt-for-python) Projects:
 [2DSNotepad](https://github.com/Davipcrs/2DpsNotes) - A PySide6 Text Editor (Finished)  
 [PrintTimer](https://github.com/Davipcrs/PrintTimerPDF) - A Python Script to print documents with a timer using win32print api (Not Finish)
 
-### [Flutter](https://flutter.dev/) Projects:
+## [Flutter](https://flutter.dev/) Projects:
 [flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm (Finished)
 
-### General Purpose Projecs:
+## General Purpose Projecs:
 [sh_scripts](https://github.com/Davipcrs/sh-scripts) - My Scripts
