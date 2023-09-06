@@ -13,3 +13,6 @@ Currently studying the flutter SDK and basic operating system administration.
 <a href="https://www.youtube.com/UCtPPga5eT5hARdNkUu4aR_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
+### Projects Indexes:
+
+  #### PySide6 [Qt for Python](https://www.qt.io/qt-for-python) Projects
