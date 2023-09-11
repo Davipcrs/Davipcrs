@@ -1,7 +1,10 @@
 # Hi, welcome to my profile!
 
 I'am a brazillian developer with a great interest in DevOps and mobile development.
-Currently studying the flutter SDK and basic operating system administration.
+Currently studying the flutter SDK and basic operating system administration.  
+
+#### Stats  
+[![Davipcrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davipcrs)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Programing languages
 
