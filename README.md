@@ -5,7 +5,7 @@ Currently studying the flutter SDK and basic operating system administration.
 
 #### Stats  
 [![Davipcrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davipcrs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davipcrs)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davipcrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 #### Programing languages
 
 <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="60" height="60"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
