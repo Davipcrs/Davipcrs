@@ -14,7 +14,7 @@ Currently studying the flutter SDK and basic operating system administration.
 </div>
 
 #### Stats  
-(https://github-readme-stats.vercel.app/api?username=Davipcrs)
+![Davipcrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davipcrs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davipcrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 
