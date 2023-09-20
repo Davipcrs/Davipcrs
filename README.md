@@ -22,7 +22,7 @@ Currently studying the flutter SDK and basic operating system administration.
 
 ### Python and [PySide6](https://www.qt.io/qt-for-python) Projects:
 [2DSNotepad](https://github.com/Davipcrs/2DpsNotes) - A PySide6 Text Editor (Finished)  
-[PrintTimer](https://github.com/Davipcrs/PrintTimerPDF) - A Python Script to print documents with a timer using win32print api (Fished (99% Done, need polishing))
+[PrintTimer](https://github.com/Davipcrs/PrintTimerPDF) - A Python Script to print documents with a timer using win32print api (Finished - 99% done need polishing)
 
 ### [Flutter](https://flutter.dev/) Projects:
 [flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm (Finished)
