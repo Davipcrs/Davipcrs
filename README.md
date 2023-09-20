@@ -3,7 +3,7 @@
 I'am a brazillian developer with a great interest in DevOps and mobile development.
 Currently studying the flutter SDK and basic operating system administration.  
 
-#### Programing languages
+#### Tools
 
 <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="60" height="60"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 
