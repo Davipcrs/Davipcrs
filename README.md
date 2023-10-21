@@ -25,7 +25,8 @@ Currently studying the flutter SDK and basic operating system administration.
 [2DSPyPrinting](https://github.com/Davipcrs/2DSPyPrinting) - A (GPLv2) Python wrap win32print and pycups for printing documents (Finished)  
 
 ### [Flutter](https://flutter.dev/) Projects:
-[flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm (Finished)
+[flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm (Finished)  
+[parking_app](https://github.com/Davipcrs/parking-app) - A Flutter Rewrite for the 2D Estacionamento Parking control app (In Progress)
 
 ### General Purpose Projecs:
 [sh_scripts](https://github.com/Davipcrs/sh-scripts) - My Scripts
