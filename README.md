@@ -26,7 +26,8 @@ Currently studying the flutter SDK and basic operating system administration.
 
 ### [Flutter](https://flutter.dev/) Projects:
 [flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm (Finished)  
-[parking_app](https://github.com/Davipcrs/parking-app) - A Flutter Rewrite for the 2D Estacionamento Parking control app (Finished)
+[parking_app](https://github.com/Davipcrs/parking-app) - A Flutter Rewrite for the 2D Estacionamento Parking control app (Finished)  
+[organiza_ai](https://github.com/Davipcrs/organiza_ai) - A Flutter Note, To Do, and Calender managing app (99% Done)  
 
 ### General Purpose Projecs:
 [sh_scripts](https://github.com/Davipcrs/sh-scripts) - My Scripts
