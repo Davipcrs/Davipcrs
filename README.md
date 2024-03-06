@@ -21,13 +21,14 @@ Currently studying the flutter SDK and basic operating system administration.
 ## Projects Indexes:
 
 ### Python and [PySide6](https://www.qt.io/qt-for-python) Projects:
-[2DSNotepad](https://github.com/Davipcrs/2DSNotepad) - A PySide6 Text Editor (Finished)  
-[2DSPyPrinting](https://github.com/Davipcrs/2DSPyPrinting) - A (GPLv2) Python wrap win32print and pycups for printing documents (Finished)  
+[2DSNotepad](https://github.com/Davipcrs/2DSNotepad) - A PySide6 Text Editor  
+[2DSPyPrinting](https://github.com/Davipcrs/2DSPyPrinting) - A (GPLv2) Python wrap win32print and pycups for printing documents  
 
 ### [Flutter](https://flutter.dev/) Projects:
-[flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm (Finished)  
-[parking_app](https://github.com/Davipcrs/parking-app) - A Flutter Rewrite for the 2D Estacionamento Parking control app (Finished)  
-[organiza_ai](https://github.com/Davipcrs/organiza_ai) - A Flutter Note, To Do, and Calender managing app (99% Done)  
+[organiza_ai](https://github.com/Davipcrs/organiza_ai) - A Flutter Note, To Do, and Calender managing app  
+[parking_app](https://github.com/Davipcrs/parking-app) - A Flutter Rewrite for the 2D Estacionamento Parking control app  
+[flutter_clock](https://github.com/Davipcrs/flutter_clock) - A Flutter Basic Alarm  
+[mini_utils](https://github.com/Davipcrs/mini_utils) - A Flutter Utils Library, resuable widgets and functions (In Development)  
 
 ### General Purpose Projecs:
 [sh_scripts](https://github.com/Davipcrs/sh-scripts) - My Scripts
