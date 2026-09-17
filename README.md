@@ -5,7 +5,7 @@ Currently studying the flutter SDK and basic operating system administration.
 
 #### Tools
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHFhnCmtXHuGLP1cdoZSSIBV0J7-bFqABZPnYyOGgricuWZNOqc8HR2Nj&s=10" width="60" height="60"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+<img src="https://flutter.dev/assets/lockup_flutter_horizontal.549a1b7dd82615e8e9c95c1ade8cee42.svg" width="60" height="60"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 
 #### Social Medias
 <div>
